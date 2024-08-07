@@ -10,7 +10,5 @@ public class MemberRepositoryImpl implements MemberRepository{
         return null;
     }
 
-    @Override
-    public Member findByName(String name) {
-    }
+
 }

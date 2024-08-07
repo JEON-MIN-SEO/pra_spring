@@ -6,5 +6,4 @@ public interface MemberRepository {
 
     Member findById(Long memberId);
 
-    Member findByName(String name);
 }
